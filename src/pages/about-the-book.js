@@ -48,12 +48,12 @@ const ATB = (props) => {
                                     `,
                                 ebooks: {
                                     // stratton: 'https://www.stratton-press.com/books/heroes-and-villains-california-dreaming-book-i/',
-                                    barnes: 'https://www.barnesandnoble.com/w/will-the-real-israel-please-stand-up-jim-jester/1112544953?ean=9781648957567',
+                                    barnes: 'https://www.barnesandnoble.com/w/will-the-real-israel-please-stand-up-jim-jester/1112544953?ean=9781648957574',
                                     amazon: 'https://www.amazon.com/Will-Real-Israel-Please-Stand-ebook/dp/B09STTJQSF/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1646086980&sr=8-1',
                                 },
                                 paperback: {
                                     amazon: 'https://www.amazon.com/Will-Real-Israel-Please-Stand/dp/1648957560/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1646086980&sr=8-1',
-                                    barnes: 'https://www.barnesandnoble.com/w/will-the-real-israel-please-stand-up-jim-jester/1112544953?ean=2940162133476',
+                                    barnes: 'https://www.barnesandnoble.com/w/will-the-real-israel-please-stand-up-jim-jester/1112544953?ean=9781648957567',
                                     booksamillion: 'https://www.booksamillion.com/p/Will-Real-Israel-Please-Stand/James-N-Jester/9781648957567?id=8158356429268',
                                 }
                             }}

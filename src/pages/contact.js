@@ -21,6 +21,7 @@ const Contact = (props) => {
             if (xhr.readyState !== XMLHttpRequest.DONE) return;
             if (xhr.status === 200) {
                 form.reset();
+                alert("Successfully Sent.");
             } else {
                 console.log('something went wrong')
             }

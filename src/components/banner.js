@@ -13,9 +13,9 @@ const Banner = () => {
                             <div className="banner-text" id='bannercontent'>
 
                                 <h1>
-                                James N. Jester
+                                Will the Israel
                                 </h1>
-                                <p>Please Stand Up</p>
+                                <p>Please Stand Up!</p>
                                 
                             </div>
 
