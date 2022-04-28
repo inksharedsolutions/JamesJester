@@ -14,6 +14,7 @@
     .banner-text{
         p{
             line-height:1;
+        
         }
     }
 
@@ -26,10 +27,11 @@
 
             .banner-text {
             h1{
-                font-size: 6em;
-                letter-spacing: 2px;
+                font-size: 5em;
+                letter-spacing: 5px;
                
-            } 
+            }
+            
             span{
                 font-size: 105px;
             }
@@ -68,6 +70,11 @@
         padding-right: 40px;
     }
 
+    .upper-main{
+        #wrapper-two-books{
+            padding-right: 30px;
+        }
+    }
     
 }
 
@@ -211,7 +218,7 @@
 
             .banner-text {
             h1{
-                font-size: 105px;
+                font-size: 72px;
                 letter-spacing: 7px;
                
                 .bannertxt{
@@ -314,7 +321,7 @@
             .banner-text {
             h1{
                 font-size: 5.5em;
-                letter-spacing: 8px;
+                letter-spacing: 0px;
                 // padding-top: 25rem;   //85px
             } 
             span{
@@ -333,6 +340,11 @@
     }
     #author{
         padding: 2rem;
+    }
+    .upper-main{
+        #wrapper-two-books{
+            padding-right: 0px;
+        }
     }
 
   
@@ -643,7 +655,7 @@
 
     .container-gt .grid-child-elem .banner-text h1{
 
-        padding-top: 20rem;
+        padding-top: 5rem;
     }
 
    #sailor-sermon{
@@ -700,7 +712,7 @@
 
     .container-gt .grid-child-elem .banner-text h1{
 
-        padding-top: 20rem;
+        padding-top: 10rem;
     }
 
    #sailor-sermon{
@@ -747,8 +759,10 @@
         padding-top: 10px;
     }
 
-    .container-gt .grid-child-elem #bannercontent h1{
-        // padding-left: 400px;
+    .container-gt .grid-child-elem #bannercontent {
+        
+        padding-top: 5em;
+      
     }
 
     .container-gt .grid-child-elem #bannercontent {
@@ -772,7 +786,8 @@
 
     // }
     }
-    
+    .container-gt .grid-child-elem .banner-text {
+        padding-top: 5em;}
     
     
 
@@ -843,8 +858,8 @@
     .container-gt .grid-child-elem .banner-text {
         h1{
            
-        padding-top: 25rem;  //240px
-        letter-spacing: 3px;
+        padding-top: 5rem;  //240px
+        letter-spacing: 0px !important;
         }
         span{
             font-size: 55px;
@@ -886,15 +901,19 @@
 {
     .container-gt .grid-child-elem #bannercontent{
 
-        margin-left: 10em;
-
+        margin-left: 0em;
+        padding-top: 0em;
         h1{
-        padding-left: 1em;
+        padding-left: 0;
 
-        font-size: 60px;
+        font-size: 3em;
         letter-spacing: 0;
-        padding-top: 140px;
+        padding-top: 70px;
         line-height: 65px;
+
+        p{
+            font-size: 4em;
+        }
 
         .bannertxt{
 
@@ -906,7 +925,11 @@
         
     }
     }
-    
+    .banner-text{
+        p{
+            font-size: 2.5em;
+        }
+    }
     
 
     
@@ -1364,14 +1387,20 @@
 
             .banner-text {
             h1{
-                font-size: 85px;
-                letter-spacing: 5px;
+                font-size: 68px;
+                letter-spacing: 0px;
                 padding-top: 260px;
 
                 .bannertxt{
                     font-size: 80px;
                 }
+
+
+                
             } 
+            p{
+                font-size: 2.3em;
+            }
             span{
                 font-size: 80px;
             }
@@ -1447,8 +1476,10 @@
             line-height: 65px;
         }
         p{
-            font-size: 20px;
+            font-size: 40px;
             border-radius: 50px;
+            line-height: 15px;
+            letter-spacing: 0;
         }
         
         
@@ -1657,7 +1688,7 @@
 
 @media screen and (max-width: 390px){
     .container-gt .grid-child-elem .banner-text h1 {
-        font-size: 30px;
+        font-size: 45px;
         padding-top: 10%;
         letter-spacing: 1px;
     
@@ -1831,9 +1862,13 @@
     
                 .banner-text {
                 h1{
-                    font-size: 3.5em;
-                    letter-spacing: 1px;
+                    font-size: 2.5em;
+                    letter-spacing: 0px;
                 } 
+
+                p{
+                    font-size: 2em;
+                }
                 span{
                     font-size: 50px;
                 }

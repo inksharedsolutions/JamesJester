@@ -14,6 +14,7 @@ const Banner = () => {
 
                                 <h1>
                                 Will the Israel
+                                
                                 </h1>
                                 <p>Please Stand Up!</p>
                                 
