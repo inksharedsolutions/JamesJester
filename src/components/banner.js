@@ -13,7 +13,7 @@ const Banner = () => {
                             <div className="banner-text" id='bannercontent'>
 
                                 <h1>
-                                Will the Israel
+                                Will the Real Israel
                                 
                                 </h1>
                                 <p>Please Stand Up!</p>
