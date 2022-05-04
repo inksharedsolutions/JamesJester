@@ -23,7 +23,7 @@ const Footer = () => {
                         </h1>
 
                         <p>
-                            James N. Jester loves to hear from readers. You can reach her via email.
+                            James N. Jester loves to hear from readers. You can reach him via email.
                             Feel free to send questions about writing, his works, interviews
                             and other publicity matters.
                         </p>
